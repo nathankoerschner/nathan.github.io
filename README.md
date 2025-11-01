@@ -9,6 +9,8 @@ I like working on software projects where I get to think of “data infrastructu
 
 My favorite past times include reading ribbonfarm, e-biking, and watching John Coogan videos.
 
+[Visit my blog](https://nathankoerschner.github.io/).
+
 ### **Past Projects**
 
 > [MosaicMath](https://mosaicmath.com)
